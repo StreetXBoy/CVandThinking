@@ -1,0 +1,97 @@
+{
+  "selectedTemplate": 1,
+  "headings": {
+    "projects": "",
+    "awards": "相关证书"
+  },
+  "basics": {
+    "name": "陈祥瑞",
+    "email": "472102894@qq.com",
+    "phone": "18382261353",
+    "location": {
+      "address": "大数据开发工程师"
+    },
+    "website": "www.chenxiangrui.club"
+  },
+  "education": [
+    {
+      "location": "上海",
+      "area": "计算机软件与理论",
+      "startDate": "2020年9月",
+      "endDate": "",
+      "gpa": "",
+      "institution": "上海计算技术研究所",
+      "studyType": "硕士"
+    },
+    {
+      "institution": "电子科技大学",
+      "location": "成都",
+      "studyType": "本科",
+      "area": "信息与计算科学",
+      "startDate": "2015年9月",
+      "endDate": "2019年6月"
+    }
+  ],
+  "work": [
+    {
+      "company": "中国工商银行软件开发中心",
+      "location": "成都",
+      "position": "大数据平台开发工程师",
+      "website": "",
+      "startDate": "2019年7月",
+      "endDate": "2020年3月",
+      "highlights": [
+        "基于spark计算引擎的事前风控组件开发"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "Spring/SpringBoot",
+        "Hadoop/Spark",
+        "java/python",
+        "Linux"
+      ],
+      "name": "了解java后端框架，大数据开发组件"
+    }
+  ],
+  "projects": [
+    {
+      "keywords": [
+        "java/python"
+      ],
+      "name": "使用mapreduce实现简单的推荐算法引擎",
+      "description": "基于spark框架实现推荐好友功能"
+    },
+    {
+      "keywords": [
+        "java/python"
+      ],
+      "name": "基于马尔科夫模型的智能邮件营销",
+      "description": "给定一个顾客的历史交易数据，通过sprak和马尔科夫模型来观测下一次向这个顾客发送营销邮件的合理日期"
+    }
+  ],
+  "awards": [
+    {
+      "awarder": "",
+      "summary": "",
+      "title": "阿里云云计算助理工程师认证",
+      "date": "2020"
+    },
+    {
+      "title": "阿里云大数据工程师认证",
+      "date": "2020"
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
